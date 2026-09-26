@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "CPA509",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "CPA509",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
+    "ip": "cpa509.aternos.me",
     "port": 25565,
-    "version": "",
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
